@@ -1,0 +1,12 @@
+CONTENT
+.<h1>_6 heading command
+.<p> for paragraph
+.lorem(number) for para left so that it can be replaced with necessary content or body
+.style can be used in html directly we can change bkg colour or txt colour at one thing at a time
+
+MY BOOKMARKS
+.normal !DECTYPE code with
+.<h1>,<h2> as heading in it for sections
+.<a is a command for elements  
+.in <a href= is a attribute to use in elements for adding any links or url 
+.target="_blank" this is used for redirecting your links to other tab / open your links in a new tab 
