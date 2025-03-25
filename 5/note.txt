@@ -22,7 +22,7 @@ USING OF SAMPLE HTML TABLES LIKE:
 .<footer> is like ender or completer of any specific data or copyright
 
 LISTING
-.<ul> unordered list, shows data in bullet output image.html line 1-7
+.<ul> unordered list, <ul type="circle,square,disc"  shows data in bullet output image.html line 1-7
 .<ol> order list, <ol type=""> specific type sl no likw A,a I,i 1...
 .<dl> description list, to describe your list as in like header or can be used as a body or opening tag
 .<dt> description text, same as dl but if big usage then dl as body and dt as a text header
