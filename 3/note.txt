@@ -1,0 +1,12 @@
+live your site with private network in any phone or tab or pc with same WIFI
+
+.open pc terminal 
+.search "ipconfig"
+.copy ip4 
+.VS studio settings
+.live preview
+.paste your ip4
+.change wifi settings to private by wifi settings private
+.preview and check your ip with:3000 or something then it will help to preview your content on any device with same wifi
+   
+DONE......
