@@ -1,0 +1,16 @@
+HOW WE CAN MAKE A FORMS
+.!DOCTYPE
+.form can be sued to submit large amount of data in it
+.<div> used to start from a new line just like <br> but useful for clean work can use this to separate the particular content every time
+
+.input is to input any password name username or data
+.input is a element and with input we have to use type as a required work
+.id, name, placeholder, value is a attribute in input element 
+
+.label every time if we use input type we have to use label for to describe our labels / name
+
+.textarea is used put long text by customer or reviewer
+.use can use name id rows cols in textarea
+
+.<select> is used for any kind of selecting thing or in a various content select any of them
+.option used for adding multiple vales for selection
