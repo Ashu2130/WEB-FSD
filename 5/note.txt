@@ -1,0 +1,29 @@
+image adding
+.!DOCTYPE using "img" to import image files 
+.image element have attribute like src the image name 
+.alt for name if any error occur shows the name of the image
+.height/width for pixels adjusting 
+. br for line shifting / output will start from next line
+.style.css td is for border: 1,2,3..px solid(choice of box) colour (colour of your desire box) image.html line no 24,25
+
+
+USING OF SAMPLE HTML TABLES LIKE:
+.<table> is use for adding more elements in the form of table
+.<tr is title reader for the help of specific title
+.<th as title header 
+.<td is title description which help to keep data in a shell/table
+
+.colspan="number" helps to give spaces side by side between 2 content
+.rowspan="number" helps to give spaces up and down between 2 content
+
+.<caption> for any kind of center starting heading, shown in line no 15 image.html
+
+.<thead> is like header of any table 
+.<footer> is like ender or completer of any specific data or copyright
+
+LISTING
+.<ul> unordered list, shows data in bullet output image.html line 1-7
+.<ol> order list, <ol type=""> specific type sl no likw A,a I,i 1...
+.<dl> description list, to describe your list as in like header or can be used as a body or opening tag
+.<dt> description text, same as dl but if big usage then dl as body and dt as a text header
+.<dd> describe the above dl or dt definition or content of the header
