@@ -1,0 +1,15 @@
+lighthouse
+.right click on any website and inspect
+.used to check whether the site has good score and can easily identify the gap to make more good and better
+.visibility of sites on multiple devices / HOW IT LOOKS ON ANY DEVICE
+
+.meta:desc can use for description of any site or google or bing or any browser can make your description by there own / more useful for blogs type site
+
+CORE WEB VITALS / METRICS
+.FCP First Contentful Paint
+.TBT Total Blocking Time
+.SI Speed Index
+.LCP Largest Contentful Paint
+.CLS Cumulative Layout Shift
+
+For more web.dev
