@@ -1,0 +1,1 @@
+basic way to built website by !DOCTYPE HTML
