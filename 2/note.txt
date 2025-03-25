@@ -1,0 +1,5 @@
+to use css java in any html
+.link css to html for style change
+.add java by script "src" 
+.in java how to use alert 
+.uses of alert in basic ways
